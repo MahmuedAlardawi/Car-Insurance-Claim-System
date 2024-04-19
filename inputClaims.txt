@@ -1,0 +1,38 @@
+20
+ProcessClaim 103 ORW-2024 2342114502 Jeddah 2020 5 28 false true
+ProcessClaim 104 OEN-4432 2342114502 Jeddah 2020 3 15 true false
+
+ProcessClaim 103 XBN-3662 2473823723 Riyadh 2020 1 11 false false 
+ProcessClaim 102 GKW-9509 2225198408 Makkah 2020 4 21 false true
+
+ProcessClaim 101 PFK-9886 2225198408 Riyadh 2020 6 9 true true
+
+ProcessClaim 106 GKW-9509 2845898568 Jeddah 2020 2 21 false true
+ProcessClaim 105 IUN-7806 2225198408 Riyadh 2020 9 26 true false 
+
+ProcessClaim 109 ZMJ-6244 2345347676 Makkah 2020 5 2 false true
+
+ProcessClaim 106 PFK-9886 2473823723 Taif 2020 1 9 false false 
+
+ProcessClaim 104 MSS-9121 2225198408 Riyadh 2020 2 21 true true
+
+
+
+ProcessClaim 105 PFK-9886 2225198408 Riyadh 2020 3 10 false false 
+
+ProcessClaim 107 QYN-3002 2342114502 Makkah 2020 7 15 false true
+
+ProcessClaim 108 ANG-3456 2912367457 Riyadh 2020 6 17 true false 
+
+ProcessClaim 109 WRF-5415 2845898568 Makkah 2020 9 27 false false 
+
+ProcessClaim 103 ORW-2024 2225198408 Taif 2020 8 19 true true
+ProcessClaim 104 QYN-3002 2912367457 Riyadh 2020 6 3 true true
+
+ProcessClaim 109 IQS-7792 2345347676 Jeddah 2020 4 22 false false
+ProcessClaim 104 MSS-9121 2473823723 Riyadh 2020 6 3 true true
+
+ProcessClaim 104 QPL-1002 2912367457 Makkah 2020 6 3 true true
+
+ProcessClaim 104 XBN-3662 2474747448 Jeddah 2020 6 3 true true
+Quit

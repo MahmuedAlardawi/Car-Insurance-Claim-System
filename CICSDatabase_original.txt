@@ -1,0 +1,123 @@
+--------------- Welcome to CICS  Database ---------------
+
+
+
+	Car No.: WRF-5415	Type: Car	Brand: KIA	Model: Optima	Color: Green	Mfg. Year: 2021
+------------------------------------------------------
+
+	Car No.: OFM-8546	Type: Truck	Brand: MAN	Model: TGS	Color: Black	Mfg. Year: 2018
+------------------------------------------------------
+
+	Car No.: XBN-3662	Type: SUV	Brand: Toyota	Model: Fortuner	Color: Blue	Mfg. Year: 2020
+------------------------------------------------------
+
+	Car No.: ZMJ-6244	Type: Bus	Brand: Mazda	Model: T3500	Color: Grey	Mfg. Year: 2017
+------------------------------------------------------
+
+	Car No.: PFK-9886	Type: Car	Brand: Honda	Model: Accord	Color: White	Mfg. Year: 2019
+------------------------------------------------------
+
+	Car No.: QYN-3002	Type: Truck	Brand: Volvo	Model: FMR	Color: Yellow	Mfg. Year: 2017
+------------------------------------------------------
+
+	Car No.: IUN-7806	Type: Pickup	Brand: Suzuki	Model: Carry	Color: Brown	Mfg. Year: 2011
+------------------------------------------------------
+
+	Car No.: PSO-4502	Type: Car	Brand: Mercedes	Model: S500	Color: Black	Mfg. Year: 2013
+------------------------------------------------------
+
+	Car No.: ORW-2024	Type: SUV	Brand: Lexus	Model: RX470	Color: Grey	Mfg. Year: 2017
+------------------------------------------------------
+
+	Car No.: QPL-1002	Type: Bus	Brand: Mercedes	Model: DLX	Color: Yellow	Mfg. Year: 2018
+------------------------------------------------------
+
+	Car No.: ANG-3456	Type: Car	Brand: Toyota	Model: Corolla	Color: White	Mfg. Year: 2017
+------------------------------------------------------
+
+	Car No.: GKW-9509	Type: SUV	Brand: Kia	Model: Sportage	Color: Blue	Mfg. Year: 2013
+------------------------------------------------------
+
+	Car No.: MSS-9121	Type: Car	Brand: Toyota	Model: Corolla	Color: White	Mfg. Year: 2017
+------------------------------------------------------
+
+	Car No.: PLO-1059	Type: Truck	Brand: Ford	Model: F160	Color: Black	Mfg. Year: 2008
+------------------------------------------------------
+
+	Car No.: ZBV-1743	Type: Pickup	Brand: Nissan	Model: Navara	Color: Green	Mfg. Year: 2012
+------------------------------------------------------
+
+	Car No.: IQS-7792	Type: Car	Brand: Honda	Model: Civic	Color: Grey	Mfg. Year: 2014
+------------------------------------------------------
+
+	Car No.: SGH-6258	Type: SUV	Brand: Honda	Model: CRV	Color: White	Mfg. Year: 2015
+------------------------------------------------------
+
+	Car No.: HGD-1253	Type: Car	Brand: Mercedes	Model: AMG	Color: Red	Mfg. Year: 2017
+------------------------------------------------------
+
+	Car No.: FKD-1421	Type: Pickup	Brand: Toyota	Model: Hilux	Color: Grey	Mfg. Year: 2018
+------------------------------------------------------
+
+	Car No.: OEN-4432	Type: Car	Brand: Lexus	Model: LX570	Color: White	Mfg. Year: 2011
+------------------------------------------------------
+
+	InsuranceCoverage Code: 101	InsuranceCoverage Description: Towing
+------------------------------------------------------
+
+	InsuranceCoverage Code: 102	InsuranceCoverage Description: Body Damage
+------------------------------------------------------
+
+	InsuranceCoverage Code: 103	InsuranceCoverage Description: Color Damage
+------------------------------------------------------
+
+	InsuranceCoverage Code: 104	InsuranceCoverage Description: Engine Damage
+------------------------------------------------------
+
+	InsuranceCoverage Code: 105	InsuranceCoverage Description: Flood Damage
+------------------------------------------------------
+
+	InsuranceCoverage Code: 106	InsuranceCoverage Description: Fire Damage
+------------------------------------------------------
+
+	InsuranceCoverage Code: 107	InsuranceCoverage Description: Storm Damage
+------------------------------------------------------
+
+	InsuranceCoverage Code: 108	InsuranceCoverage Description: Hit and Run
+------------------------------------------------------
+
+	InsuranceCoverage Code: 109	InsuranceCoverage Description: Glass Damage
+------------------------------------------------------
+
+	InsuranceCoverage Code: 110	InsuranceCoverage Description: Stolen
+------------------------------------------------------
+
+	Owner ID: 2473823723	Name: Tareq Abdali
+------------------------------------------------------
+
+	Owner ID: 2912367457	Name: Bandar Omar
+------------------------------------------------------
+
+	Owner ID: 2134367222	Name: Khaled Bara
+------------------------------------------------------
+
+	Owner ID: 2845898568	Name: Hamid Farouk
+------------------------------------------------------
+
+	Owner ID: 2021236524	Name: Ahmed Shamrani
+------------------------------------------------------
+
+	Owner ID: 2342114502	Name: Jamal Albara
+------------------------------------------------------
+
+	Owner ID: 2225198408	Name: Abdul Rehman
+------------------------------------------------------
+
+	Owner ID: 2474747448	Name: Qasim Nasr
+------------------------------------------------------
+
+	Owner ID: 2908967685	Name: Sahl Zahrani
+------------------------------------------------------
+
+	Owner ID: 2345347676	Name: Abdul Rehman
+------------------------------------------------------

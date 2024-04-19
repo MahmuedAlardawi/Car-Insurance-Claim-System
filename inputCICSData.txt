@@ -1,0 +1,42 @@
+20 10 10
+AddCar WRF-5415 Car KIA Optima Green 2021
+AddCar OFM-8546 Truck MAN TGS Black 2018
+AddCar XBN-3662 SUV Toyota Fortuner Blue 2020
+AddCar ZMJ-6244 Bus Mazda T3500 Grey 2017
+AddCar PFK-9886 Car Honda Accord White 2019
+AddCar QYN-3002 Truck Volvo FMR Yellow 2017
+AddCar IUN-7806 Pickup Suzuki Carry Brown 2011
+AddCar PSO-4502 Car Mercedes S500 Black 2013
+AddCar ORW-2024 SUV Lexus RX470 Grey 2017
+AddCar QPL-1002 Bus Mercedes DLX Yellow 2018
+AddCar ANG-3456 Car Toyota Corolla White 2017
+AddCar GKW-9509 SUV Kia Sportage Blue 2013
+AddCar MSS-9121 Car Toyota Corolla White 2017
+AddCar PLO-1059 Truck Ford F160 Black 2008
+AddCar ZBV-1743 Pickup Nissan Navara Green 2012
+AddCar IQS-7792 Car Honda Civic Grey 2014
+AddCar SGH-6258 SUV Honda CRV White 2015
+AddCar HGD-1253 Car Mercedes AMG Red 2017
+AddCar FKD-1421 Pickup Toyota Hilux Grey 2018
+AddCar OEN-4432 Car Lexus LX570 White 2011
+AddOwner 2473823723 Tareq Abdali 1991 4 3
+AddOwner 2912367457 Bandar Omar 1963 3 27
+AddOwner 2134367222 Khaled Bara 1995 4 19
+AddOwner 2845898568 Hamid Farouk 1996 2 13
+AddOwner 2021236524 Ahmed Shamrani 1959 8 11
+AddOwner 2342114502 Jamal Albara 1992 2 24
+AddOwner 2225198408 Abdul Rehman 2001 6 8
+AddOwner 2474747448 Qasim Nasr 1961 9 18
+AddOwner 2908967685 Sahl Zahrani 1985 10 30
+AddOwner 2345347676 Abdul Rehman 2002 5 22
+AddInsuranceCoverage 101 Towing 150
+AddInsuranceCoverage 102 Body_Damage 1000
+AddInsuranceCoverage 103 Color_Damage 400
+AddInsuranceCoverage 104 Engine_Damage 2200
+AddInsuranceCoverage 105 Flood_Damage 2000
+AddInsuranceCoverage 106 Fire_Damage 2000
+AddInsuranceCoverage 107 Storm_Damage 1200
+AddInsuranceCoverage 108 Hit_and_Run 600
+AddInsuranceCoverage 109 Glass_Damage 700
+AddInsuranceCoverage 110 Stolen 10000
+Quit

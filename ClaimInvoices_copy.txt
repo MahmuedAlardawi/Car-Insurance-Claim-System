@@ -1,0 +1,517 @@
+--------------- Welcome to Traffic Claim System ---------------
+
+
+Invoice No. 1648225490076
+
+Insurance Coverage Details
+	Insurance Coverage Code: 103
+	Insurance Coverage Description: Color Damage
+	Insurance Coverage Penalty: 400.0
+
+Car Details
+	Number Plate: ORW-2024
+	Type: SUV
+	Brand: Lexus
+	Model: RX470
+	Color: Grey
+	Built Year: 2017
+
+Owner Details
+	National ID: 2342114502
+	Full Name: Jamal Albara
+
+Claim Details
+	Date: 2020-28-5
+	Location: Jeddah
+
+Total Amount: 500.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 104
+	Insurance Coverage Description: Engine Damage
+	Insurance Coverage Penalty: 2200.0
+
+Car Details
+	Number Plate: OEN-4432
+	Type: Car
+	Brand: Lexus
+	Model: LX570
+	Color: White
+	Built Year: 2011
+
+Owner Details
+	National ID: 2342114502
+	Full Name: Jamal Albara
+
+Claim Details
+	Date: 2020-15-3
+	Location: Jeddah
+
+Total Amount: 2400.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 103
+	Insurance Coverage Description: Color Damage
+	Insurance Coverage Penalty: 400.0
+
+Car Details
+	Number Plate: XBN-3662
+	Type: SUV
+	Brand: Toyota
+	Model: Fortuner
+	Color: Blue
+	Built Year: 2020
+
+Owner Details
+	National ID: 2473823723
+	Full Name: Tareq Abdali
+
+Claim Details
+	Date: 2020-11-1
+	Location: Riyadh
+
+Total Amount: 400.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 102
+	Insurance Coverage Description: Body Damage
+	Insurance Coverage Penalty: 1000.0
+
+Car Details
+	Number Plate: GKW-9509
+	Type: SUV
+	Brand: Kia
+	Model: Sportage
+	Color: Blue
+	Built Year: 2013
+
+Owner Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Claim Details
+	Date: 2020-21-4
+	Location: Makkah
+
+Total Amount: 1100.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 101
+	Insurance Coverage Description: Towing
+	Insurance Coverage Penalty: 150.0
+
+Car Details
+	Number Plate: PFK-9886
+	Type: Car
+	Brand: Honda
+	Model: Accord
+	Color: White
+	Built Year: 2019
+
+Owner Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Claim Details
+	Date: 2020-9-6
+	Location: Riyadh
+
+Total Amount: 450.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 106
+	Insurance Coverage Description: Fire Damage
+	Insurance Coverage Penalty: 2000.0
+
+Car Details
+	Number Plate: GKW-9509
+	Type: SUV
+	Brand: Kia
+	Model: Sportage
+	Color: Blue
+	Built Year: 2013
+
+Owner Details
+	National ID: 2845898568
+	Full Name: Hamid Farouk
+
+Claim Details
+	Date: 2020-21-2
+	Location: Jeddah
+
+Total Amount: 2100.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 105
+	Insurance Coverage Description: Flood Damage
+	Insurance Coverage Penalty: 2000.0
+
+Car Details
+	Number Plate: IUN-7806
+	Type: Pickup
+	Brand: Suzuki
+	Model: Carry
+	Color: Brown
+	Built Year: 2011
+
+Owner Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Claim Details
+	Date: 2020-26-9
+	Location: Riyadh
+
+Total Amount: 2200.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 109
+	Insurance Coverage Description: Glass Damage
+	Insurance Coverage Penalty: 700.0
+
+Car Details
+	Number Plate: ZMJ-6244
+	Type: Bus
+	Brand: Mazda
+	Model: T3500
+	Color: Grey
+	Built Year: 2017
+
+Owner Details
+	National ID: 2345347676
+	Full Name: Abdul Rehman
+
+Claim Details
+	Date: 2020-2-5
+	Location: Makkah
+
+Total Amount: 800.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 106
+	Insurance Coverage Description: Fire Damage
+	Insurance Coverage Penalty: 2000.0
+
+Car Details
+	Number Plate: PFK-9886
+	Type: Car
+	Brand: Honda
+	Model: Accord
+	Color: White
+	Built Year: 2019
+
+Owner Details
+	National ID: 2473823723
+	Full Name: Tareq Abdali
+
+Claim Details
+	Date: 2020-9-1
+	Location: Taif
+
+Total Amount: 2000.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 104
+	Insurance Coverage Description: Engine Damage
+	Insurance Coverage Penalty: 2200.0
+
+Car Details
+	Number Plate: MSS-9121
+	Type: Car
+	Brand: Toyota
+	Model: Corolla
+	Color: White
+	Built Year: 2017
+
+Owner Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Claim Details
+	Date: 2020-21-2
+	Location: Riyadh
+
+Total Amount: 2500.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490123
+
+Insurance Coverage Details
+	Insurance Coverage Code: 105
+	Insurance Coverage Description: Flood Damage
+	Insurance Coverage Penalty: 2000.0
+
+Car Details
+	Number Plate: PFK-9886
+	Type: Car
+	Brand: Honda
+	Model: Accord
+	Color: White
+	Built Year: 2019
+
+Owner Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Claim Details
+	Date: 2020-10-3
+	Location: Riyadh
+
+Total Amount: 2000.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490131
+
+Insurance Coverage Details
+	Insurance Coverage Code: 107
+	Insurance Coverage Description: Storm Damage
+	Insurance Coverage Penalty: 1200.0
+
+Car Details
+	Number Plate: QYN-3002
+	Type: Truck
+	Brand: Volvo
+	Model: FMR
+	Color: Yellow
+	Built Year: 2017
+
+Owner Details
+	National ID: 2342114502
+	Full Name: Jamal Albara
+
+Claim Details
+	Date: 2020-15-7
+	Location: Makkah
+
+Total Amount: 1300.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490131
+
+Insurance Coverage Details
+	Insurance Coverage Code: 108
+	Insurance Coverage Description: Hit and Run
+	Insurance Coverage Penalty: 600.0
+
+Car Details
+	Number Plate: ANG-3456
+	Type: Car
+	Brand: Toyota
+	Model: Corolla
+	Color: White
+	Built Year: 2017
+
+Owner Details
+	National ID: 2912367457
+	Full Name: Bandar Omar
+
+Claim Details
+	Date: 2020-17-6
+	Location: Riyadh
+
+Total Amount: 800.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490131
+
+Insurance Coverage Details
+	Insurance Coverage Code: 109
+	Insurance Coverage Description: Glass Damage
+	Insurance Coverage Penalty: 700.0
+
+Car Details
+	Number Plate: WRF-5415
+	Type: Car
+	Brand: KIA
+	Model: Optima
+	Color: Green
+	Built Year: 2021
+
+Owner Details
+	National ID: 2845898568
+	Full Name: Hamid Farouk
+
+Claim Details
+	Date: 2020-27-9
+	Location: Makkah
+
+Total Amount: 700.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490133
+
+Insurance Coverage Details
+	Insurance Coverage Code: 103
+	Insurance Coverage Description: Color Damage
+	Insurance Coverage Penalty: 400.0
+
+Car Details
+	Number Plate: ORW-2024
+	Type: SUV
+	Brand: Lexus
+	Model: RX470
+	Color: Grey
+	Built Year: 2017
+
+Owner Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Claim Details
+	Date: 2020-19-8
+	Location: Taif
+
+Total Amount: 700.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490133
+
+Insurance Coverage Details
+	Insurance Coverage Code: 104
+	Insurance Coverage Description: Engine Damage
+	Insurance Coverage Penalty: 2200.0
+
+Car Details
+	Number Plate: QYN-3002
+	Type: Truck
+	Brand: Volvo
+	Model: FMR
+	Color: Yellow
+	Built Year: 2017
+
+Owner Details
+	National ID: 2912367457
+	Full Name: Bandar Omar
+
+Claim Details
+	Date: 2020-3-6
+	Location: Riyadh
+
+Total Amount: 2500.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490133
+
+Insurance Coverage Details
+	Insurance Coverage Code: 109
+	Insurance Coverage Description: Glass Damage
+	Insurance Coverage Penalty: 700.0
+
+Car Details
+	Number Plate: IQS-7792
+	Type: Car
+	Brand: Honda
+	Model: Civic
+	Color: Grey
+	Built Year: 2014
+
+Owner Details
+	National ID: 2345347676
+	Full Name: Abdul Rehman
+
+Claim Details
+	Date: 2020-22-4
+	Location: Jeddah
+
+Total Amount: 700.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490133
+
+Insurance Coverage Details
+	Insurance Coverage Code: 104
+	Insurance Coverage Description: Engine Damage
+	Insurance Coverage Penalty: 2200.0
+
+Car Details
+	Number Plate: MSS-9121
+	Type: Car
+	Brand: Toyota
+	Model: Corolla
+	Color: White
+	Built Year: 2017
+
+Owner Details
+	National ID: 2473823723
+	Full Name: Tareq Abdali
+
+Claim Details
+	Date: 2020-3-6
+	Location: Riyadh
+
+Total Amount: 2500.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490133
+
+Insurance Coverage Details
+	Insurance Coverage Code: 104
+	Insurance Coverage Description: Engine Damage
+	Insurance Coverage Penalty: 2200.0
+
+Car Details
+	Number Plate: QPL-1002
+	Type: Bus
+	Brand: Mercedes
+	Model: DLX
+	Color: Yellow
+	Built Year: 2018
+
+Owner Details
+	National ID: 2912367457
+	Full Name: Bandar Omar
+
+Claim Details
+	Date: 2020-3-6
+	Location: Makkah
+
+Total Amount: 2500.0
+───────────────────────────────────────────────────────
+Invoice No. 1648225490141
+
+Insurance Coverage Details
+	Insurance Coverage Code: 104
+	Insurance Coverage Description: Engine Damage
+	Insurance Coverage Penalty: 2200.0
+
+Car Details
+	Number Plate: XBN-3662
+	Type: SUV
+	Brand: Toyota
+	Model: Fortuner
+	Color: Blue
+	Built Year: 2020
+
+Owner Details
+	National ID: 2474747448
+	Full Name: Qasim Nasr
+
+Claim Details
+	Date: 2020-3-6
+	Location: Jeddah
+
+Total Amount: 2550.0
+───────────────────────────────────────────────────────
+--------Total claim(s) by owner--------
+
+Owner ID             Owner Name            Total Claim(s)
+
+2473823723         Tareq Abdali                         3
+2912367457          Bandar Omar                         3
+2134367222          Khaled Bara                         0
+2845898568         Hamid Farouk                         2
+2021236524       Ahmed Shamrani                         0
+2342114502         Jamal Albara                         3
+2225198408         Abdul Rehman                         6
+2474747448           Qasim Nasr                         1
+2908967685         Sahl Zahrani                         0
+2345347676         Abdul Rehman                         2
